@@ -3,6 +3,10 @@
 #   - jekyll-sitemap
 #   - jekyll-seo-tag
 
+domain: queenkirathepansexualpixie.github.io
+url: https://queenkirathepansexualpixie.github.io
+baseurl: /jekyll_test_site/
+
 collections:
   authors:
     output: true
